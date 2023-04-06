@@ -19,3 +19,12 @@
 - Como acessar as propriedades `prototype` e `__proto__` e, através delas, identificar a cadeia de protótipos desde o nível mais baixo, normalmente um objeto do próprio tipo de dado, como `Object` ou `Function`;
 
 - As duas formas (anteriores às classes) que o JavaScript utiliza para criação de objetos a partir de modelos: `Object.create()` e funções construtoras com `new`; sendo o primeiro mais indicado para se trabalhar com protótipos utilizando as melhores práticas e o segundo mais próximo à sintaxe de classes.
+
+### Aula 02
+- O que são e como funcionam as classes, elementos essenciais para se trabalhar com orientação a objetos em grande parte das linguagens de programação voltadas para este paradigma. As classes fornecem um modelo para a criação de cópias (instâncias) de objetos que compartilham dos mesmos tipos de propriedades e métodos;
+
+- O conceito de herança de classe, também importante para se trabalhar com orientação a objetos, como criar subclasses que herdam propriedades e métodos de uma superclasse e como reaproveitar estas propriedades e métodos da superclasse através da função `super()`;
+
+- Como uma subclasse pode ter propriedades e métodos próprios, além dos recebidos da superclasse, e como declarar isso no código criando novos métodos;
+
+- A praticar a sintaxe de classe com JavaScript, criando classes, subclasses, propriedades, construtores e métodos.
